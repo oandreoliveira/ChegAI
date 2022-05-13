@@ -40,16 +40,16 @@ __________________________________________________________
 
 ___________________________________________________________
 
-[Arquitetura - chegAI.pdf](https://github.com/oandreoliveira/APP_ChegAI/files/8550742/Arquitetura.-.chegAI.pdf)
+[Arquitetura - chegAI.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Arquitetura%20-%20chegAI.pdf)
 ___________________________________________________________
-[Diagrama_Casos_de_Uso_ChegAI.pdf](https://github.com/oandreoliveira/APP_ChegAI/files/8550750/Diagrama_Casos_de_Uso_ChegAI.pdf)
+[Diagrama_Casos_de_Uso_ChegAI.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Diagrama_Casos_de_Uso_ChegAI.pdf)
 ___________________________________________________________
-[Diagrama_Classes.pdf](https://github.com/oandreoliveira/APP_ChegAI/files/8550751/Diagrama_Classes.pdf)
+[Diagrama_Classes.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Diagrama_Classes.pdf)
 ___________________________________________________________
-[DOCUMENTO DE REQUISITOS - APP ChegAI.docx](https://github.com/oandreoliveira/APP_ChegAI/files/8550753/DOCUMENTO.DE.REQUISITOS.-.APP.ChegAI.docx)
+[DOCUMENTO DE REQUISITOS - APP ChegAI.docx](https://github.com/oandreoliveira/ChegAI/blob/main/DOCUMENTO%20DE%20REQUISITOS%20-%20APP%20ChegAI.docx)
 ___________________________________________________________
-[Documento+de+Requisitos.docx](https://github.com/oandreoliveira/APP_ChegAI/files/8550754/Documento%2Bde%2BRequisitos.docx)
+[Documento+de+Requisitos.docx](https://github.com/oandreoliveira/ChegAI/blob/main/Documento%2Bde%2BRequisitos.docx)
 ___________________________________________________________
-[Termo_de_Abertura_do_Projeto_-_ChegAI_-_ADS_-_FAC_SENAC_2022.1.docx.pdf](https://github.com/oandreoliveira/APP_ChegAI/files/8578793/Termo_de_Abertura_do_Projeto_-_ChegAI_-_ADS_-_FAC_SENAC_2022.1.docx.pdf)
+[Termo_de_Abertura_do_Projeto_-_ChegAI_-_ADS_-_FAC_SENAC_2022.1.docx.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Termo_de_Abertura_do_Projeto_-_ChegAI_-_ADS_-_FAC_SENAC_2022.1.docx.pdf)
 
 ___________________________________________________________
