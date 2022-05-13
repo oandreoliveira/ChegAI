@@ -7,6 +7,7 @@ __________________________________________________________
 # APP_ChegAI
 Projeto Integrador - 3° Semestre - curso ADS - Senac / Pe
 Equipe: Alexandre Freitas, André Oliveira, Jabneel Pereira, Luis Henrique Amaral, Maruza Campelo e Sarah Norões
+
 Orientador Projeto Integrador: Geraldo Gomes
 Turma: ADSN3
 __________________________________________________________
@@ -37,7 +38,7 @@ Além disso, de acordo com a publicação do IBGE do dia 24/02/2022, em 2021, Pe
 
 __________________________________________________________
 
-![Android Small - 10](https://user-images.githubusercontent.com/95599130/168392952-9746ecdb-e978-4054-be03-08b96164d002.png)![Android Small - 8](https://user-images.githubusercontent.com/95599130/168392958-2ac6b534-9f04-4167-af39-60c05eed3069.png) ![Android Small - 11](https://user-images.githubusercontent.com/95599130/168392966-7bbd4819-d614-4b84-9143-a2a62d453f21.png)![Android - 69](https://user-images.githubusercontent.com/95599130/168393003-e2f88f1d-cd63-43e9-a5dd-745106589f30.png)![Android - 73](https://user-images.githubusercontent.com/95599130/168393015-438300d1-3aee-460e-970c-7c2bdbf36b6d.png)
+![Android Small - 10](https://user-images.githubusercontent.com/95599130/168392952-9746ecdb-e978-4054-be03-08b96164d002.png) ![Android Small - 8](https://user-images.githubusercontent.com/95599130/168392958-2ac6b534-9f04-4167-af39-60c05eed3069.png) ![Android Small - 11](https://user-images.githubusercontent.com/95599130/168392966-7bbd4819-d614-4b84-9143-a2a62d453f21.png) ![Android - 69](https://user-images.githubusercontent.com/95599130/168393003-e2f88f1d-cd63-43e9-a5dd-745106589f30.png) ![Android - 73](https://user-images.githubusercontent.com/95599130/168393015-438300d1-3aee-460e-970c-7c2bdbf36b6d.png)
 ![Android - 74](https://user-images.githubusercontent.com/95599130/168393028-3e4a1dee-a6de-42b6-b686-6f76dd7afdd1.png)
 
 
