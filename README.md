@@ -31,8 +31,11 @@ Para o IBGE, é necessário analisar o problema do fechamento de escolas e a eva
 Além disso, de acordo com a publicação do IBGE do dia 24/02/2022, em 2021, Pernambuco teve a maior taxa de desemprego registrada em todo o Brasil. O índice atingiu 19,9% da população com idade para trabalhar.1
 
 1-https://g1.globo.com/pe/pernambuco/noticia/2022/02/24/pernambuco-tem-199percent-de-desemprego-e-atinge-o-maior-indice-em-todo-o-brasil-em-2021-diz-ibge.ghtml#:~:text=Quarto%20trimestre%20de%202021&text=A%20taxa%20de%20desocupa%C3%A7%C3%A3o%20recuou,chegou%20a%2019%2C3%25
+
 2- https://www.ilo.org/brasilia/noticias/WCMS_816630/lang--pt/index.htm
-3- https://brasil.un.org/pt-br/140066-oit-alerta-para-risco-de-geracao-do-confinamento-com-crise-do-emprego-entre-os-jovens.
+
+3- https://brasil.un.org/pt-br/140066-oit-alerta-para-risco-de-geracao-do-confinamento-com-crise-do-emprego-entre-os-jovens
+
 4- https://www.pautadehoje.com.br/pernambuco-atingiu-em-2021-o-maior-indice-de-desemprego-de-todo-o-brasil-diz-ibge/
 
 
