@@ -36,20 +36,24 @@ Além disso, de acordo com a publicação do IBGE do dia 24/02/2022, em 2021, Pe
 
 
 __________________________________________________________
-![Android_Small_-_7_1](https://user-images.githubusercontent.com/95599130/165653862-f1bbe0ee-3180-4f0b-a3dc-8234bae8f50d.png) ![Android_-_67](https://user-images.githubusercontent.com/95599130/165653948-1e71ba55-5136-40aa-88c9-6a12f80aa44b.png) ![Android_-_62](https://user-images.githubusercontent.com/95599130/165653985-05ecd18e-c3e2-438e-8c91-edc3af503593.png) ![Android_-_66](https://user-images.githubusercontent.com/95599130/165654181-55834391-d897-43c8-81c1-dc9c3f0e460d.png)
+https://github.com/oandreoliveira/ChegAI/blob/main/Prototipo/Android%20Small%20-%2010.png https://github.com/oandreoliveira/ChegAI/blob/main/Prototipo/Android%20Small%20-%208.png
+https://github.com/oandreoliveira/ChegAI/blob/main/Prototipo/Android%20Small%20-%2026.png
+https://github.com/oandreoliveira/ChegAI/blob/main/Prototipo/Android%20-%2069.png
+https://github.com/oandreoliveira/ChegAI/blob/main/Prototipo/Android%20-%2073.png
+https://github.com/oandreoliveira/ChegAI/blob/main/Prototipo/Android%20-%2074.png
 
 ___________________________________________________________
 
-[Arquitetura - chegAI.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Arquitetura%20-%20chegAI.pdf)
+[Arquitetura - chegAI.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Documentacoes/Arquitetura%20-%20chegAI.pdf)
 ___________________________________________________________
-[Diagrama_Casos_de_Uso_ChegAI.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Diagrama_Casos_de_Uso_ChegAI.pdf)
+[Diagrama_Casos_de_Uso_ChegAI.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Documentacoes/Diagrama_Casos_de_Uso_ChegAI.pdf)
 ___________________________________________________________
-[Diagrama_Classes.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Diagrama_Classes.pdf)
+[Diagrama_Classes.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Documentacoes/Diagrama_Classes.pdf)
 ___________________________________________________________
-[DOCUMENTO DE REQUISITOS - APP ChegAI.docx](https://github.com/oandreoliveira/ChegAI/blob/main/DOCUMENTO%20DE%20REQUISITOS%20-%20APP%20ChegAI.docx)
+[DOCUMENTO DE REQUISITOS - APP ChegAI.docx](https://github.com/oandreoliveira/ChegAI/blob/main/Documentacoes/DOCUMENTO%20DE%20REQUISITOS%20-%20APP%20ChegAI.docx)
 ___________________________________________________________
-[Documento+de+Requisitos.docx](https://github.com/oandreoliveira/ChegAI/blob/main/Documento%2Bde%2BRequisitos.docx)
+[Documento+de+Requisitos.docx](https://github.com/oandreoliveira/ChegAI/blob/main/Documentacoes/Documento%2Bde%2BRequisitos.docx)
 ___________________________________________________________
-[Termo_de_Abertura_do_Projeto_-_ChegAI_-_ADS_-_FAC_SENAC_2022.1.docx.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Termo_de_Abertura_do_Projeto_-_ChegAI_-_ADS_-_FAC_SENAC_2022.1.docx.pdf)
+[Termo_de_Abertura_do_Projeto_-_ChegAI_-_ADS_-_FAC_SENAC_2022.1.docx.pdf](https://github.com/oandreoliveira/ChegAI/blob/main/Documentacoes/Termo_de_Abertura_do_Projeto_-_ChegAI_-_ADS_-_FAC_SENAC_2022.1.docx.pdf)
 
 ___________________________________________________________
