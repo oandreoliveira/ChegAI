@@ -2,22 +2,8 @@
 
 
 __________________________________________________________
+# Por Dentro do Nosso Projeto!
 
-# Pordentro do Nosso Projeto!
-A população jovem está entre as que sofrem com maior intensidade as consequências sociais e econômicas da pandemia e enfrentarão seus efeitos nos próximos anos de sua vida laboral, correndo o risco de passar a formar uma “geração do confinamento”.
-
-Somos uma plataforma que busca ofertar oportunidade de capacitação e emprego a jovens de 14 até 18 anos, reduzindo a taxa de desemprego dessa faixa etária em Pernambuco. Através da criação de seu perfil, esse jovem poderá capacitar-se gratuitamente em programas de aprendizado online, cursos gratuitos de formação e capacitação profissional oferecidos por instituições qualificadas, bolsas de estudos e programas de empresas privadas. 
-
-Nos colocamos no lugar dos jovens que estão em momento de escolha da profissão, sabemos o quão difícil pode ser o início da vida profissional,
-Nosso foco é aplicado na resolução da ODS (Objetivos de Desenvolvimento Sustentáveis).  Especificamente a 8.6 - "Até 2020, reduzir substancialmente a proporção de jovens sem emprego, educação ou formação".
-
-Sem acesso a estudos e com dificuldades financeiras, parte dessas pessoas passou a buscar ocupação para auxiliar nas despesas domésticas. 
-Para enfrentar o desafio do emprego juvenil é necessário recorrer a um conjunto de políticas especialmente formuladas para enfrentar um problema estrutural e complexo. 
-As medidas deverão ter como objetivo aumentar a oferta de empregos, estimular a contratação de jovens, apoiar empresas e empreendedores, e ainda promover a educação e a formação de forma a responder às novas exigências do mercado de trabalho.
-
-Para o IBGE, é necessário analisar o problema do fechamento de escolas e a evasão escolar de jovens durante a pandemia.
-
-Além disso, de acordo com a publicação do IBGE do dia 24/02/2022, em 2021, Pernambuco teve a maior taxa de desemprego registrada em todo o Brasil. O índice atingiu 19,9% da população com idade para trabalhar.
 
 FONTE:
 1-https://g1.globo.com/pe/pernambuco/noticia/2022/02/24/pernambuco-tem-199percent-de-desemprego-e-atinge-o-maior-indice-em-todo-o-brasil-em-2021-diz-ibge.ghtml#:~:text=Quarto%20trimestre%20de%202021&text=A%20taxa%20de%20desocupa%C3%A7%C3%A3o%20recuou,chegou%20a%2019%2C3%25
