@@ -26,6 +26,18 @@ FONTE:
 
 ________________________________________________________
 
+# Para executar:
+    
+1. Use dois terminais, um para a aplicação mobile e outro para a aplicação back-end
+2. No terminal da pasta principal do projeto rode: npm install
+3. No terminal da pasta "server" rode: npm install
+4. No terminal da pasta "server" rode o comando "node app.js" e verifique se o serviço subiu
+5. Verifique o IP do seu computador "ipconfig" em um terminal a parte. Substitua as ocorrências de chamadas da API no projeto mobile para iniciarem pelo seu ip, exemplo:  fetch('http://192.168.18.70:3000/update&#39');
+6. Execute o projeto mobile no terminal da pasta principal do projeto rode: expo start
+7. Leia o QR Code gerado com o app Expo Go (https://apps.apple.com/br/app/expo-go/id982107779 ou https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)
+
+________________________________________________________
+
 ### EQUIPE 
 
 * [Alexandre Freitas]() 
